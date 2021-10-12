@@ -22,4 +22,4 @@ router.get(
     contoller.getData
 )
 
-module.exports = router
+module.exports = router;

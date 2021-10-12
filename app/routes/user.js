@@ -1,7 +1,7 @@
 const express = require('express');
 
 //exportamos todos los metodos del controlador
-const contoller = require('./user');
+const contoller = require('../controllers/user');
 
 //vamos a poder definir nuestras rutas
 const router = express.Router();
